@@ -461,7 +461,7 @@ And of course Wikipedia, which is surprisingly good:
 Pro tip: Don't forget to end your cron files with an empty line or a
 comment, otherwise it will not work.
 
-### Packet management
+### Paket management
 
 Linux Tips are the second part of this podcast:
 <https://anchor.fm/andreaskayy/embed/episodes/IT-Networking-Infrastructure-and-Linux-031-PoDS-e242bh>
